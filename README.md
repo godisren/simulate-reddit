@@ -34,3 +34,9 @@ npm init
 npm start
 ```
 note : execute <b>npm init</b> for the first time. 
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+<img src="./document/login.png" width="500px">
+
+<img src="./document/post.png" width="500px">
