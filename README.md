@@ -1,10 +1,8 @@
 ## Simulate Simple Reddit
 
 To try to implement a simple website like Reddit sharing contents by posting text.<br>
-The architecture is designed by separating Front-End and Back-End service.
-
-Folder <b>reddit-backend</b> represents a stateless Back-End service with REST API.
-
+The architecture is designed by separating Front-End and Back-End service.<br>\
+Folder <b>reddit-backend</b> represents a stateless Back-End service with REST API.<br>\
 Folder <b>reddit-frontend</b> represents UI presentation layer.
 
 
