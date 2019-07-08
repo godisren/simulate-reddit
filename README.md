@@ -33,7 +33,7 @@ cd reddit-frontend
 npm init
 npm start
 ```
-note : execute <b>npm init</b> for the first time. 
+note : only execute <b>npm init</b> for the first time. 
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
