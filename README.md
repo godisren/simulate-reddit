@@ -2,8 +2,9 @@
 
 To try to implement a simple website like Reddit sharing contents by posting text.<br>
 The architecture is designed by separating Front-End and Back-End service.<br>
-Folder <b>reddit-backend</b> represents a stateless Back-End service with REST API.<br>
-Folder <b>reddit-frontend</b> represents UI presentation layer.
+
+<b>reddit-backend</b> represents a stateless Back-End service with RESTFul APIs.<br>
+<b>reddit-frontend</b> represents UI presentation layer.
 
 
 ### Tech Stack
@@ -14,7 +15,7 @@ Back-End : Springboot, JPA, JWT(JSON Web Tokens)
 DB : MongoDB
 
 ### Test Enviroment
-For local test, Executing below docker command can lauch a MongoDB container.
+For local test, executing below docker command can lauch a MongoDB container.
 ``` bash
 docker run --name my-mongo -p 27017:27017 -d mongo
 ```
