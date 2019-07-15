@@ -1,4 +1,4 @@
-## Simulate Simple Reddit
+# Simulate Simple Reddit
 
 To try to implement a simple website like Reddit sharing contents by posting text.<br>
 The architecture is designed by separating Front-End and Back-End service.<br>
@@ -7,14 +7,14 @@ The architecture is designed by separating Front-End and Back-End service.<br>
 <b>reddit-frontend</b> represents UI presentation layer.
 
 
-### Tech Stack
+## Tech Stack
 Front-End : ReactJS, Bootstrap, axios, npm
 
 Back-End : Springboot, JPA, JWT(JSON Web Tokens)
 
 DB : MongoDB
 
-### Test Enviroment
+## Test Enviroment
 For local test, executing below docker command can lauch a MongoDB container.
 ``` bash
 docker run --name my-mongo -p 27017:27017 -d mongo
